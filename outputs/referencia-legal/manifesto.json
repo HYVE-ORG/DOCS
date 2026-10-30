@@ -1,0 +1,114 @@
+{
+  "repository": "https://github.com/ctresb/leis",
+  "branch": "main",
+  "commit": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+  "consultation_local_date": "2026-10-21",
+  "consultation_timezone": "America/Sao_Paulo",
+  "scope": "Selected software-relevant laws; full corpus not downloaded or read",
+  "files": [
+    {
+      "path": "acervo/README.md",
+      "url": "https://raw.githubusercontent.com/ctresb/leis/15eb09b618ff08a38c4dfee06a91bd139d093f5d/README.md",
+      "bytes": 19116,
+      "sha256": "c6de25bbe0b804cc8b73c7bbb4f843f782a97cbaf2437acba7e577f001af4cd4",
+      "downloaded_at_utc": "2026-10-22T02:41:19.2535193Z",
+      "completeness": "snapshot_not_legally_certified"
+    },
+    {
+      "path": "acervo/PROGRESSO.md",
+      "url": "https://raw.githubusercontent.com/ctresb/leis/15eb09b618ff08a38c4dfee06a91bd139d093f5d/PROGRESSO.md",
+      "bytes": 24476,
+      "sha256": "caee1f1912524ab77d340a377fc082a4d3387661794a96b3f6ce3059e166d905",
+      "downloaded_at_utc": "2026-10-22T02:41:19.5497879Z",
+      "completeness": "snapshot_not_legally_certified"
+    },
+    {
+      "path": "acervo/LICENSE",
+      "url": "https://raw.githubusercontent.com/ctresb/leis/15eb09b618ff08a38c4dfee06a91bd139d093f5d/LICENSE",
+      "bytes": 1305,
+      "sha256": "e71449c818e669b01200bbd28679a9ae048ab7cae466a41e1a697c5ac8206d8f",
+      "downloaded_at_utc": "2026-10-22T02:41:19.8279549Z",
+      "completeness": "snapshot_not_legally_certified"
+    },
+    {
+      "path": "acervo/federal/leis-ordinarias/2018/lei-13709-2018-08-14.md",
+      "url": "https://raw.githubusercontent.com/ctresb/leis/15eb09b618ff08a38c4dfee06a91bd139d093f5d/federal/leis-ordinarias/2018/lei-13709-2018-08-14.md",
+      "bytes": 84925,
+      "sha256": "72d32431037ce85955c6f959f50f11d10971a8ec36f93cdae5ee3459ec66a4dd",
+      "downloaded_at_utc": "2026-10-22T02:41:20.1212217Z",
+      "completeness": "snapshot_not_legally_certified"
+    },
+    {
+      "path": "acervo/federal/leis-ordinarias/2014/lei-12965-2014-04-23.md",
+      "url": "https://raw.githubusercontent.com/ctresb/leis/15eb09b618ff08a38c4dfee06a91bd139d093f5d/federal/leis-ordinarias/2014/lei-12965-2014-04-23.md",
+      "bytes": 27930,
+      "sha256": "3ab62009e0cbb77fa5c2113950e088852347108d8ec05c45f57dedff40923a38",
+      "downloaded_at_utc": "2026-10-22T02:41:20.3979874Z",
+      "completeness": "snapshot_not_legally_certified"
+    },
+    {
+      "path": "acervo/federal/leis-ordinarias/2015/lei-13146-2015-07-06.md",
+      "url": "https://raw.githubusercontent.com/ctresb/leis/15eb09b618ff08a38c4dfee06a91bd139d093f5d/federal/leis-ordinarias/2015/lei-13146-2015-07-06.md",
+      "bytes": 120379,
+      "sha256": "f1cb8d67d89a1b37a2c8ec01ed242e480a60816cf17814af40509031744e482a",
+      "downloaded_at_utc": "2026-10-22T02:43:00.3629805Z",
+      "completeness": "snapshot_not_legally_certified"
+    },
+    {
+      "path": "acervo/federal/leis-ordinarias/1998/lei-9609-1998-02-19.md",
+      "url": "https://raw.githubusercontent.com/ctresb/leis/15eb09b618ff08a38c4dfee06a91bd139d093f5d/federal/leis-ordinarias/1998/lei-9609-1998-02-19.md",
+      "bytes": 726,
+      "sha256": "44cec95a5bab2aa35ac65ca69762f97482d53cb770e600d7bbcc854724f31d84",
+      "downloaded_at_utc": "2026-10-22T02:41:20.6629961Z",
+      "completeness": "rectification_only_not_full_law"
+    },
+    {
+      "path": "acervo/federal/leis-ordinarias/1998/lei-9610-1998-02-19.md",
+      "url": "https://raw.githubusercontent.com/ctresb/leis/15eb09b618ff08a38c4dfee06a91bd139d093f5d/federal/leis-ordinarias/1998/lei-9610-1998-02-19.md",
+      "bytes": 72446,
+      "sha256": "4c4059fd013ef1df5b28315d6d2494817474224556cc3b599fa31830f3516957",
+      "downloaded_at_utc": "2026-10-22T02:41:20.9511102Z",
+      "completeness": "snapshot_not_legally_certified"
+    },
+    {
+      "path": "fontes-oficiais/lgpd-planalto.html",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+      "bytes": 230913,
+      "sha256": "484bb6e1e344a53f092002010def86a6ee770648bcf85b737455e7f562f90bef",
+      "downloaded_at_utc": "2026-10-22T02:43:01.2015796Z",
+      "completeness": "snapshot_not_legally_certified"
+    },
+    {
+      "path": "fontes-oficiais/marco-civil-planalto.html",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
+      "bytes": 119976,
+      "sha256": "597034be44121b1b9991ae4d7b3aaf5f21f269fc58ea0ae247b336f0bd6bfcf7",
+      "downloaded_at_utc": "2026-10-22T02:43:01.5794525Z",
+      "completeness": "snapshot_not_legally_certified"
+    },
+    {
+      "path": "fontes-oficiais/lei-9609-planalto.html",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm",
+      "bytes": 21993,
+      "sha256": "26e59e96403028f61a0e2350ae2310037a11b9576dc328aefc0291bcc70085fa",
+      "downloaded_at_utc": "2026-10-22T02:43:00.6733721Z",
+      "completeness": "snapshot_not_legally_certified"
+    },
+    {
+      "path": "fontes-oficiais/direitos-autorais-planalto.html",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
+      "bytes": 148434,
+      "sha256": "e2e7264af40a65b705148095aeeb891f251fd4e9b7ad205b9b88c9972224f7d3",
+      "downloaded_at_utc": "2026-10-22T02:43:01.9564668Z",
+      "completeness": "snapshot_not_legally_certified"
+    },
+    {
+      "path": "fontes-oficiais/inclusao-planalto.html",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+      "bytes": 243670,
+      "sha256": "7e7e9179d57f70d76620ccaaeb24b3be2f8f20e338174cbe335135755e25fb27",
+      "downloaded_at_utc": "2026-10-22T02:43:02.4255061Z",
+      "completeness": "snapshot_not_legally_certified"
+    }
+  ]
+}

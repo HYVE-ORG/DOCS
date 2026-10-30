@@ -1,0 +1,11 @@
+{
+  "README.md": ["README.md"],
+  "PRODUCT.md": ["outputs/documentacao-software/01-visao-e-escopo.md", "outputs/documentacao-software/02-requisitos-e-regras.md"],
+  "AGENTS.md": ["AGENTS.md"],
+  "CLAUDE.md": ["CLAUDE.md"],
+  "docs/architecture.md": ["outputs/documentacao-software/04-arquitetura-e-decisoes.md"],
+  "docs/design.md": ["outputs/documentacao-software/03-experiencia-e-navegacao.md"],
+  "docs/onboarding.md": ["outputs/toolkit-setup/onboarding.md"],
+  "docs/quality.md": ["outputs/toolkit-setup/quality.md"],
+  "docs/setup.md": ["outputs/toolkit-setup/setup.md"]
+}
